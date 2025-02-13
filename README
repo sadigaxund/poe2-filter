@@ -1,1 +1,5 @@
 
+Just copy paste all of the contents into "C:\Users\<username>\Documents\My Games\Path of Exile 2" and it will show up in-game.
+
+If you are wondering how I added the sounds, you can edit the filter file and search for "CustomAlertSound" keyword and change the sound file name or even add custom sounds to other item categories.
+
